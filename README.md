@@ -60,9 +60,11 @@ A futuristic city at sunset
 
 👉 Generated image will be saved in the project folder.
 
----
+---## 📸 Sample Output
 
-## 📸 Sample Output
+![Generated Image](output.png)
+
+
 
 (Add your generated images here)
 
